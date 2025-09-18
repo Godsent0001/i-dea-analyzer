@@ -1,0 +1,21 @@
+
+export const METRIC_DESCRIPTIONS: Record<string, string> = {
+    totalAddressableMarket: "Total Addressable Market (TAM): The total market demand for a product or service, calculated in annual revenue.",
+    serviceableAvailableMarket: "Serviceable Available Market (SAM): The segment of the TAM targeted by your products and services which is within your geographical reach.",
+    serviceableObtainableMarket: "Serviceable Obtainable Market (SOM): The portion of SAM that you can realistically capture.",
+    marketGrowthRate: "Market Growth Rate: The projected rate at which the market is expected to expand over a specific period.",
+    marketTrendsAndTiming: "Market Trends & Timing: Analysis of current market trends and whether the timing is right for this idea to succeed.",
+    competitorLandscape: "Competitor Landscape: An overview of direct and indirect competitors, their strengths, weaknesses, and market share.",
+    customerAcquisitionCost: "Customer Acquisition Cost (CAC): The estimated cost of acquiring a new customer for the business.",
+    willingnessToPay: "Willingness to Pay: The maximum price a customer is willing to pay for your product or service.",
+    valuePropositionClarity: "Value Proposition Clarity: How clearly the idea's primary benefit and value to the customer are articulated.",
+    differentiationIndex: "Differentiation Index: How unique or different the product/service is compared to existing solutions.",
+    minimumViableProduct: "Minimum Viable Product (MVP): A summary of the core features needed to launch the product and test the key hypotheses.",
+    technicalFeasibility: "Technical Feasibility: An assessment of the technical challenges and viability of building the proposed solution.",
+    ipAndMoats: "IP & Moats: Potential for intellectual property (patents, trademarks) and other competitive advantages (moats) that protect the business.",
+    revenueModel: "Revenue Model: The strategy for generating income from the product or service (e.g., subscriptions, one-time sales).",
+    scalabilityPotential: "Scalability Potential: The idea's ability to grow and handle increased demand without a proportional increase in costs.",
+    salesCycleLength: "Sales Cycle Length: The estimated time it takes to close a sale, from initial contact to purchase.",
+    burnRateAndRunway: "Burn Rate & Runway: An estimation of monthly expenses (burn rate) and how long the initial capital will last (runway).",
+    breakEvenAnalysis: "Break-Even Analysis: The point at which total costs and total revenue are equal, meaning the business is no longer losing money.",
+};
